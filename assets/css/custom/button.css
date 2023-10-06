@@ -1,0 +1,115 @@
+/*================================================================================
+	Item Name: Materialize - Material Design Admin Template
+	Version: 5.0
+	Author: PIXINVENT
+	Author URL: https://themeforest.net/user/pixinvent/portfolio
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.button {
+	border: none;
+	color: white;
+	padding: 7px 9px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 7px
+}
+.button91 {
+	border: none;
+	color: white;
+	padding: 6px 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 7px
+}
+
+.button8 {
+	border: none;
+	color: white;
+	padding: 6px 6px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 7px
+}
+
+.button0 {
+	border: none;
+	color: white;
+	padding: 7px 9px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 7px
+}
+
+.button1 {
+	background: linear-gradient(to right, #6699ff 0%, #cc33ff 100%);
+}
+
+.button2 {
+	background: linear-gradient(to top left, #ffcc66 0%, #ff3399 100%);
+}
+
+.button3 {
+	background: linear-gradient(to top left, #6666ff 0%, #00ffff 100%);
+}
+
+.button5 {
+	background: linear-gradient(to top left, #ffcc66 0%, #ff3399 100%);
+}
+
+.button7 {
+	background: linear-gradient(to right, #ff3399 0%, #ff0000 100%);
+}
+.button9 {
+	background: linear-gradient(to bottom right, #00ffff 1%, #3399ff 100%);
+}
+.button10 {
+	background: linear-gradient(to top left, #000000 0%, #800000 100%);
+}
+
+a.tooltip {
+
+	text-decoration: none;
+}
+
+a.tooltip:hover {
+
+	position: relative;
+}
+
+a.tooltip span {
+	display: none;
+}
+
+a.tooltip:hover span {
+	padding: 2px 4px 2px 2px;
+	display: block;
+	z-index: 100;
+	background: lightskyblue;
+	left: 0px;
+	margin: 15px;
+	width: 40px;
+	position: absolute;
+	top: 20px;
+	text-decoration: none;
+	border-radius: 7px
+}

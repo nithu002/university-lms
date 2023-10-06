@@ -1,0 +1,6 @@
+fieldset {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    border: 0.5px dotted;
+}
